@@ -1,0 +1,14 @@
+## 1.3.0 [09th October 2023]
+- Compatibility updates for the latest WordPress and Elementor versions
+
+## 1.2.0 [09th October 2023]
+- WordPress and Elementor latest version compatibility issue fixed
+
+## 1.1.0 [15th March 2023]
+-Elementor latest version compatibility issue fixed
+
+## 1.0.1 [15th May 2022]
+- Shortcode Features Added
+
+## 1.0.0
+- Initial Release
